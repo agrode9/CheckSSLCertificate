@@ -1,1 +1,1 @@
-see description
+This java program looks through an excel sheet of data and, using selenium, verifies whether or not the sites have an ssl certificate. If they do, the program updates the excel sheet with a https:// in front. This program makes some assumptions such as : Links are in a specific column, sites that are secure are written excluding https://
